@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【MV】クロスワードパズル／まふまふ",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-25T13:20:14.938873Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クロスワードパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_クロスワードパズル_まふまふ.txt"
+    }
+  ]
+}
